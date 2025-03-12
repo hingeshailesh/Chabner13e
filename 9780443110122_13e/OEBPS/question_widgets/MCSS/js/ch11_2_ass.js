@@ -2,8 +2,8 @@
 var quiz = [
 
     {
-        q: `What did the ECG reveal?`,
-        q2: ``,
+        q: `<b>Case 2:</b> Mr. Smith is brought urgently to the Emergency Room for prolonged chest pain. His ECG showed ST segment elevation in the anterior leads and he was then transferred to the cardiac cath lab. An angiogram reveals 100% blockage of the left anterior descending (LAD) coronary artery. PCI with stent is recommended.`,
+        q2: `What did the ECG reveal?`,
         q3: [],
         option: [
 `STEMI`,
