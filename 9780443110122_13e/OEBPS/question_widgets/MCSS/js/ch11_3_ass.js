@@ -3,7 +3,7 @@ var quiz = [
 
     {
         q: `What’s your diagnosis for this patient?`,
-       
+        q2: ``,
         q3: [],
         option: [
 `Pericarditis`,

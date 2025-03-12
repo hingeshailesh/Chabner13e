@@ -3,7 +3,7 @@ var quiz = [
 
     {
         q: `What did the ECG reveal?`,
-       
+        q2: ``,
         q3: [],
         option: [
 `STEMI`,
