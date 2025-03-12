@@ -84,6 +84,7 @@ hr.seperator {
   height: 1px;
   background: var(--gray-lighter);
   margin-bottom: 1rem;
+  width: 100%;
 }
 textarea {
   /*font-family: FiraSans-Regular;*/
@@ -1029,6 +1030,14 @@ padding-bottom: 1rem;
 .custom-dropdown-option:hover,
 .custom-dropdown-option:focus {
   background: #f0f0f0;
+}
+
+.question{
+  text-indent: 0em;
+}
+
+iframe.frame_mcq{
+  width: 100%;
 }
 
 @media print {
