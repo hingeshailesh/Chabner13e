@@ -146,8 +146,6 @@
       <item id="id_js37" href="question_widgets/MCSS/js/ch11_2_ass.js" media-type="text/javascript"/>
       <item id="id_js38" href="question_widgets/MCSS/js/ch11_3_ass.js" media-type="text/javascript"/>
       <item id="id_js39" href="question_widgets/MCSS/js/ch14_1_ass.js" media-type="text/javascript"/>
-      <item id="id_js40" href="question_widgets/MCSS/js/ch14_2_ass.js" media-type="text/javascript"/>
-      <item id="id_js41" href="question_widgets/MCSS/js/ch14_3_ass.js" media-type="text/javascript"/>
       <item id="id_js42" href="question_widgets/True_False/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
       <item id="id_js43" href="question_widgets/True_False/js/QUIZTRUE_21.js" media-type="text/javascript"/>
       <item id="id_js44" href="question_widgets/True_False/script/main.js" media-type="text/javascript"/>
@@ -2738,8 +2736,6 @@
       <item id="chapter11_3_mcms1" href="question_widgets/MCSS/xhtml/chapter11_3_mcms.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
       <item id="chapter13_mcms" href="question_widgets/MCSS/xhtml/chapter13_mcms.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
       <item id="chapter14_1_mcms1" href="question_widgets/MCSS/xhtml/chapter14_1_mcms.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-      <item id="chapter14_2_mcms1" href="question_widgets/MCSS/xhtml/chapter14_2_mcms.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-      <item id="chapter14_3_mcms1" href="question_widgets/MCSS/xhtml/chapter14_3_mcms.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
       <item id="chapter21_True_False1" href="question_widgets/True_False/xhtml/chapter21_True_False.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
       
 	     <item id="mpeg_1" href="question_widgets/inline_questions/data/media/audio/group1/abdomen.mp3" media-type="audio/mpeg"/>
