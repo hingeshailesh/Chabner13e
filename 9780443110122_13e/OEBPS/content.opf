@@ -5052,8 +5052,6 @@
       <itemref idref="chapter11_3_mcms1" linear="no"/>
       <itemref idref="chapter13_mcms" linear="no"/>
       <itemref idref="chapter14_1_mcms1" linear="no"/>
-      <itemref idref="chapter14_2_mcms1" linear="no"/>
-      <itemref idref="chapter14_3_mcms1" linear="no"/>
       <itemref idref="chapter21_True_False1" linear="no"/>
       
    </spine>
