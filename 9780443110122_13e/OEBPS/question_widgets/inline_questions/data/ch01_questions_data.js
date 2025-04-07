@@ -1127,7 +1127,7 @@ group6: {
           headerImage:{},
           clozeHtml:`<span>-opsy #cloze1#</span>`,
           clozes:{
-            cloze1:{correctValue: "Process of viewing", clozelabel:"fill in the blank"},
+            cloze1:{correctValue: "process of viewing", clozelabel:"fill in the blank"},
           },
           clozePlacement:"inline",//newline
         },

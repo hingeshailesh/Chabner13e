@@ -2378,7 +2378,7 @@ group19: {
           headerImage:{},
           clozeHtml:`<span>The number of chromosomes in a female’s egg cell is #cloze1# .</span>`,
           clozes:{
-            cloze1:{correctValue: "23 (23 pairs)", clozelabel:"fill in the blank"},
+            cloze1:{correctValue: "23", clozelabel:"fill in the blank"},
           },
           clozePlacement:"inline",//newline
         },
