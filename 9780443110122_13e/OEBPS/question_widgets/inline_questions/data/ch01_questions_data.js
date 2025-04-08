@@ -908,8 +908,28 @@ const questions_data = {
         }
       ],
       
-      correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      correctFeedback: `<p>All of your answers are correct.</p>
+      <div style="color: #333;">
+        <p>Correct Answers:</p>
+        <ol>
+          <li>D - A cardiologist is an internal medicine specialist who takes additional (fellowship) training in
+            the diagnosis and treatment of heart disease.</li>
+          <li>F - A gynecologist specializes in surgery and internal medicine to diagnose and treat disorders of the
+              female reproductive system. Ovarian cysts are sacs of fluid that form on and in the ovaries (female organs that produce eggs and hormones).</li>
+
+        </ol>
+      </div>`,
+      incorrectFeedback: `<p>You have one or more incorrect answers.</p>
+      <div style="color: #333;">
+	      <p>Correct Answers:</p>
+	    <ol>
+		  <li>D - A cardiologist is an internal medicine specialist who takes additional (fellowship) training in
+			the diagnosis and treatment of heart disease.</li>
+			<li>F - A gynecologist specializes in surgery and internal medicine to diagnose and treat disorders of the
+				female reproductive system. Ovarian cysts are sacs of fluid that form on and in the ovaries (female organs that produce eggs and hormones).</li>
+
+	   </ol>
+     </div>`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
