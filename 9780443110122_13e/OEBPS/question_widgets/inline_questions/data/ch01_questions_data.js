@@ -912,10 +912,16 @@ const questions_data = {
       <div style="color: #333;font-weight: normal;">
         <p>Correct Answers:</p>
         <ol style="padding: 0 1em;list-style: auto;">
-          <li>D - A cardiologist is an internal medicine specialist who takes additional (fellowship) training in
-            the diagnosis and treatment of heart disease.</li>
-          <li>F - A gynecologist specializes in surgery and internal medicine to diagnose and treat disorders of the
-              female reproductive system. Ovarian cysts are sacs of fluid that form on and in the ovaries (female organs that produce eggs and hormones).</li>
+        <li><strong>D</strong> - A cardiologist is an internal medicine specialist who takes additional (fellowship) training in the diagnosis and treatment of heart disease.</li>
+        <li><strong>F</strong> - A gynecologist specializes in surgery and internal medicine to diagnose and treat disorders of the female reproductive system. Ovarian cysts are sacs of fluid that form on and in the ovaries (female organs that produce eggs and hormones).</li>
+        <li><strong>J</strong> - A psychiatrist is a specialist in diagnosing and treating mental illness. In bipolar disorder (manic-depressive illness), the mood switches periodically from excessive mania (excitability) to deep depression (sadness, despair, and discouragement).</li>
+        <li><strong>E</strong> - An oncologist is an internal medicine specialist who takes fellowship training in the diagnosis and medical (drug) treatment of cancer.</li>
+        <li><strong>B</strong> - A hematologist is an internal medicine specialist who takes fellowship training in the diagnosis and treatment of blood disorders such as anemia and clotting diseases.</li>
+        <li><strong>H</strong> - An ophthalmologist trains in both surgery and internal medicine in order to diagnose and treat disorders of the eye. The retina is a sensitive layer of light receptor cells in the back of the eye. Retinopathy can occur as a secondary complication of chronic diabetes (from hyperglycemia).</li>
+        <li><strong>I</strong> - A neurologist is an internal medicine specialist who takes fellowship training in the diagnosis and treatment of disorders of nervous tissue (brain, spinal cord, and nerves). A CVA causes damage to areas of the brain, resulting in loss of function.</li>
+        <li><strong>C</strong> - A nephrologist is an internal medicine specialist who takes fellowship training in the diagnosis and medical treatment of kidney disease. A nephrologist does not perform surgery on the urinary tract, but treats kidney disease with drugs.</li>
+        <li><strong>A</strong> - A gastroenterologist is an internal medicine specialist who takes fellowship training in the diagnosis and treatment of disorders of the gastrointestinal tract. Examples of inflammatory bowel disease are ulcerative colitis (inflammation of the large intestine) and Crohn disease (inflammation of the last part of the small intestine).</li>
+        <li><strong>G</strong> - A urologist is a surgeon who operates on organs of the urinary tract and the male reproductive system (such as the prostate gland). Urologists also prescribe drugs for some conditions.</li>
 
         </ol>
       </div>`,
@@ -923,10 +929,16 @@ const questions_data = {
       <div style="color: #333;font-weight: normal;">
 	      <p>Correct Answers:</p>
 	    <ol style="padding: 0 1em;list-style: auto;">
-		  <li>D - A cardiologist is an internal medicine specialist who takes additional (fellowship) training in
-			the diagnosis and treatment of heart disease.</li>
-			<li>F - A gynecologist specializes in surgery and internal medicine to diagnose and treat disorders of the
-				female reproductive system. Ovarian cysts are sacs of fluid that form on and in the ovaries (female organs that produce eggs and hormones).</li>
+		  <li><strong>D</strong> - A cardiologist is an internal medicine specialist who takes additional (fellowship) training in the diagnosis and treatment of heart disease.</li>
+      <li><strong>F</strong> - A gynecologist specializes in surgery and internal medicine to diagnose and treat disorders of the female reproductive system. Ovarian cysts are sacs of fluid that form on and in the ovaries (female organs that produce eggs and hormones).</li>
+      <li><strong>J</strong> - A psychiatrist is a specialist in diagnosing and treating mental illness. In bipolar disorder (manic-depressive illness), the mood switches periodically from excessive mania (excitability) to deep depression (sadness, despair, and discouragement).</li>
+      <li><strong>E</strong> - An oncologist is an internal medicine specialist who takes fellowship training in the diagnosis and medical (drug) treatment of cancer.</li>
+      <li><strong>B</strong> - A hematologist is an internal medicine specialist who takes fellowship training in the diagnosis and treatment of blood disorders such as anemia and clotting diseases.</li>
+      <li><strong>H</strong> - An ophthalmologist trains in both surgery and internal medicine in order to diagnose and treat disorders of the eye. The retina is a sensitive layer of light receptor cells in the back of the eye. Retinopathy can occur as a secondary complication of chronic diabetes (from hyperglycemia).</li>
+      <li><strong>I</strong> - A neurologist is an internal medicine specialist who takes fellowship training in the diagnosis and treatment of disorders of nervous tissue (brain, spinal cord, and nerves). A CVA causes damage to areas of the brain, resulting in loss of function.</li>
+      <li><strong>C</strong> - A nephrologist is an internal medicine specialist who takes fellowship training in the diagnosis and medical treatment of kidney disease. A nephrologist does not perform surgery on the urinary tract, but treats kidney disease with drugs.</li>
+      <li><strong>A</strong> - A gastroenterologist is an internal medicine specialist who takes fellowship training in the diagnosis and treatment of disorders of the gastrointestinal tract. Examples of inflammatory bowel disease are ulcerative colitis (inflammation of the large intestine) and Crohn disease (inflammation of the last part of the small intestine).</li>
+      <li><strong>G</strong> - A urologist is a surgeon who operates on organs of the urinary tract and the male reproductive system (such as the prostate gland). Urologists also prescribe drugs for some conditions.</li>
 
 	   </ol>
      </div>`,
