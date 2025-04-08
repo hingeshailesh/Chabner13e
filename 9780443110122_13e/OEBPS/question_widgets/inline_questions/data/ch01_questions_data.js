@@ -909,9 +909,9 @@ const questions_data = {
       ],
       
       correctFeedback: `<p>All of your answers are correct.</p>
-      <div style="color: #333;">
+      <div style="color: #333;font-weight: normal;">
         <p>Correct Answers:</p>
-        <ol>
+        <ol style="padding: 0 1em;list-style: auto;">
           <li>D - A cardiologist is an internal medicine specialist who takes additional (fellowship) training in
             the diagnosis and treatment of heart disease.</li>
           <li>F - A gynecologist specializes in surgery and internal medicine to diagnose and treat disorders of the
@@ -920,9 +920,9 @@ const questions_data = {
         </ol>
       </div>`,
       incorrectFeedback: `<p>You have one or more incorrect answers.</p>
-      <div style="color: #333;">
+      <div style="color: #333;font-weight: normal;">
 	      <p>Correct Answers:</p>
-	    <ol>
+	    <ol style="padding: 0 1em;list-style: auto;">
 		  <li>D - A cardiologist is an internal medicine specialist who takes additional (fellowship) training in
 			the diagnosis and treatment of heart disease.</li>
 			<li>F - A gynecologist specializes in surgery and internal medicine to diagnose and treat disorders of the
