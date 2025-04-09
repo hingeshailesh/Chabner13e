@@ -1596,7 +1596,7 @@ const questions_data = {
         },
         {
           headerImage:{},
-          dropdownHtml:`<span>number of erythrocytes per mm3 or μL of blood #dropdown1#</span>`,
+          dropdownHtml:`<span>number of erythrocytes per mm<sup>3</sup> or μL of blood #dropdown1#</span>`,
           dropdowns:{
             dropdown1:{values:[],correctValue: "red blood cell count",dropdownlabel:"Select the Procedures", useCommonOptions:"true"},
           },
