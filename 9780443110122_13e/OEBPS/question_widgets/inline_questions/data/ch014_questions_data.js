@@ -677,8 +677,7 @@ const questions_data = {
           dropdownPlacement:"inline",//inline
         }
       ],
-      itemsInstruction:`<p>* Lymph nodes are collections of tissue containing white blood cells called lymphocytes.</p>
-                        <p>† A squamous cell is a type of epithelial cell.</p>`,
+      
       correctFeedback: `All of your answers are correct.`,
       incorrectFeedback: `You have one or more incorrect answers.`,
       optionStyleType: "st-decimal",
@@ -766,8 +765,7 @@ const questions_data = {
           dropdownPlacement:"inline",//inline
         }
       ],
-      itemsInstruction:`<p>* Lymph nodes are collections of tissue containing white blood cells called lymphocytes.</p>
-                        <p>† A squamous cell is a type of epithelial cell.</p>`,
+      
       correctFeedback: `All of your answers are correct.`,
       incorrectFeedback: `You have one or more incorrect answers.`,
       optionStyleType: "st-decimal",
@@ -915,8 +913,7 @@ const questions_data = {
           dropdownPlacement:"inline",//inline
         }
       ],
-      itemsInstruction:`<p>* Lymph nodes are collections of tissue containing white blood cells called lymphocytes.</p>
-                        <p>† A squamous cell is a type of epithelial cell.</p>`,
+      
       correctFeedback: `All of your answers are correct.`,
       incorrectFeedback: `You have one or more incorrect answers.`,
       optionStyleType: "st-decimal",
@@ -996,8 +993,7 @@ const questions_data = {
           dropdownPlacement:"inline",//inline
         }
       ],
-      itemsInstruction:`<p>* Lymph nodes are collections of tissue containing white blood cells called lymphocytes.</p>
-                        <p>† A squamous cell is a type of epithelial cell.</p>`,
+      
       correctFeedback: `All of your answers are correct.`,
       incorrectFeedback: `You have one or more incorrect answers.`,
       optionStyleType: "st-decimal",
@@ -1085,8 +1081,7 @@ const questions_data = {
           dropdownPlacement:"inline",//inline
         }
       ],
-      itemsInstruction:`<p>* Lymph nodes are collections of tissue containing white blood cells called lymphocytes.</p>
-                        <p>† A squamous cell is a type of epithelial cell.</p>`,
+      
       correctFeedback: `All of your answers are correct.`,
       incorrectFeedback: `You have one or more incorrect answers.`,
       optionStyleType: "st-decimal",
@@ -1193,8 +1188,7 @@ const questions_data = {
           dropdownPlacement:"newline",//inline
         }
       ],
-      itemsInstruction:`<p>* Lymph nodes are collections of tissue containing white blood cells called lymphocytes.</p>
-                        <p>† A squamous cell is a type of epithelial cell.</p>`,
+      
       correctFeedback: `All of your answers are correct.`,
       incorrectFeedback: `You have one or more incorrect answers.`,
       optionStyleType: "st-decimal",
