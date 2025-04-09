@@ -1969,7 +1969,13 @@ const questions_data = {
       ],
       items: [
         {
-          headerImage:{},
+          headerImage:{
+            src:"../../IMAGES/B9780443107795000178/main.assets/u17-04-9780443107795.jpg",
+            alt:"",
+            figCaption: "",
+            align:"left",//center
+            widthPerc:"70"//"10","20","30","40","50","60","70","80","90","100"
+          },
           dropdownHtml:`<span>#dropdown1#</span>`,
           dropdowns:{
             dropdown1:{values:[],correctValue: "Cataract",dropdownlabel:"Select the Procedures", useCommonOptions:"true"},
