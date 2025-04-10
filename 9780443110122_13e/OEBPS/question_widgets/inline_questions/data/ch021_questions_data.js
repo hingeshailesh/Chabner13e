@@ -1047,7 +1047,7 @@ const questions_data = {
         },
          {
           headerImage:{},
-          dropdownHtml:`<span>ranquilizer #dropdown1#</span>`,
+          dropdownHtml:`<span>tranquilizer #dropdown1#</span>`,
           dropdowns:{
             dropdown1:{values:[],correctValue: "phenothiazine", useCommonOptions:"true"},
           },

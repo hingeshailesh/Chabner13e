@@ -2439,7 +2439,7 @@ group6: {
           
           headerImage:{},            
           
-          clozeHtml:`<span> #cloze1#</span>`,
+          clozeHtml:`<span><u>right atrium</u></span>`,
           clozes:{
             cloze1:{correctValue: "right atrium", clozelabel:"fill in the blank"},
           },
@@ -2489,7 +2489,7 @@ group6: {
           
           headerImage:{},            
           
-          clozeHtml:`<span> #cloze1#</span>`,
+          clozeHtml:`<span><u>capillaries of the lung</u></span>`,
           clozes:{
             cloze1:{correctValue: "capillaries of the lung", clozelabel:"fill in the blank"},
           },
@@ -2549,7 +2549,7 @@ group6: {
           
           headerImage:{},            
           
-          clozeHtml:`<span> #cloze1#</span>`,
+          clozeHtml:`<span><u>aorta</u></span>`,
           clozes:{
             cloze1:{correctValue: "aorta", clozelabel:"fill in the blank"},
           },
