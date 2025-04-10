@@ -3,6 +3,8 @@ const questions_data = {
   sharedProperties: {
     maxWidth: "960px", //"100%", "90%", "760px", "1024px"
     alignment: "center", //"center", "left"
+    pageStateIdentifier:"E3K9TW72PLXQN6Y5B",//statedata identifier to store data in localstorage.
+    saveStateData:"yes",//Flag to allow save state data or not, values are "yes", "no" 
   },
   question_groups: {
     group1: {
