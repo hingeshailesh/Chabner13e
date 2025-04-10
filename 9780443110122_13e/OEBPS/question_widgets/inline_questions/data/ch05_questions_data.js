@@ -1460,6 +1460,7 @@ const questions_data = {
        "stomach",
        "transverse colon"
       ],
+      
       items: [
         
         {
