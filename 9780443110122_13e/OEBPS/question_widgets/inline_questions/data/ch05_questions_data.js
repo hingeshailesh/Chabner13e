@@ -1464,6 +1464,7 @@ const questions_data = {
       items: [
         
         {
+          dropdownTitle:`<p><strong>Title of the First Dropdown</strong></p>`,
           headerImage:{},
           dropdownHtml:`<span>#dropdown1#</span>`,
           dropdowns:{
@@ -1480,6 +1481,7 @@ const questions_data = {
           dropdownPlacement:"inline",//inline
         },
         {
+          dropdownTitle:`<p><strong>Title of the Third Dropdown</strong></p>`,
           headerImage:{},
           dropdownHtml:`<span>#dropdown1#</span>`,
           dropdowns:{
