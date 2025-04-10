@@ -2,6 +2,8 @@ const questions_data = {
   sharedProperties: {
     maxWidth: "960px", //"100%", "90%", "760px", "1024px"
     alignment: "center", //"center", "left"
+    pageStateIdentifier:"W9ZPQYXMTNLK538R2",//statedata identifier to store data in localstorage.
+    saveStateData:"yes",//Flag to allow save state data or not, values are "yes", "no"
   },
   question_groups: {
     group1: {
@@ -1045,7 +1047,7 @@ const questions_data = {
         },
          {
           headerImage:{},
-          dropdownHtml:`<span>ranquilizer #dropdown1#</span>`,
+          dropdownHtml:`<span>tranquilizer #dropdown1#</span>`,
           dropdowns:{
             dropdown1:{values:[],correctValue: "phenothiazine", useCommonOptions:"true"},
           },
