@@ -1291,21 +1291,21 @@ const questions_data = {
       type: "dropdown",
       placeholder_id: "group7_placeholder",
       commonDropdownOptions:[
-       "phacoemulsification with IOL; OS",
-       "blepharoplasty",
-       "scleral buckle",
-       "vitrectomy",
-       "radical mastoidectomy",
-       "keratoplasty",
-       "cochlear implant",
-       "laser photocoagulation of the macula",
-       "incision and drainage of hordeolum"
+       "scarred and torn cornea",
+       "ptosis of eyelid skin",
+       "retinal detachment",
+       "diabetic retinopathy",
+       "macular degeneration",
+       "chronic stye",
+       "chronic infection of a bone behind the ear",
+       "severe deafness",
+       "cataracts"
 
       ],
       items: [
         {
           headerImage:{},
-          dropdownHtml:`<span>#dropdown1#</span>`,
+          dropdownHtml:`<span>phacoemulsification with IOL; OS #dropdown1#</span>`,
           dropdowns:{
             dropdown1:{values:[],correctValue: "cataracts",dropdownlabel:"Select the Procedures", useCommonOptions:"true"},
           },
@@ -1314,7 +1314,7 @@ const questions_data = {
       
         {
           headerImage:{},
-          dropdownHtml:`<span>#dropdown1#</span>`,
+          dropdownHtml:`<span>blepharoplasty #dropdown1#</span>`,
           dropdowns:{
             dropdown1:{values:[],correctValue: "ptosis of eyelid skin",dropdownlabel:"Select the Procedures", useCommonOptions:"true"},
           },
@@ -1322,7 +1322,7 @@ const questions_data = {
         },
          {
           headerImage:{},
-          dropdownHtml:`<span>#dropdown1#</span>`,
+          dropdownHtml:`<span>scleral buckle #dropdown1#</span>`,
           dropdowns:{
             dropdown1:{values:[],correctValue: "retinal detachment",dropdownlabel:"Select the Procedures", useCommonOptions:"true"},
           },
@@ -1330,7 +1330,7 @@ const questions_data = {
         },
         {
           headerImage:{},
-          dropdownHtml:`<span>#dropdown1#</span>`,
+          dropdownHtml:`<span>vitrectomy #dropdown1#</span>`,
           dropdowns:{
             dropdown1:{values:[],correctValue: "diabetic retinopathy",dropdownlabel:"Select the Procedures", useCommonOptions:"true"},
           },
@@ -1338,7 +1338,7 @@ const questions_data = {
         },
         {
           headerImage:{},
-          dropdownHtml:`<span>#dropdown1#</span>`,
+          dropdownHtml:`<span>radical mastoidectomy #dropdown1#</span>`,
           dropdowns:{
             dropdown1:{values:[],correctValue: "chronic infection of a bone behind the ear",dropdownlabel:"Select the Procedures", useCommonOptions:"true"},
           },
@@ -1346,7 +1346,7 @@ const questions_data = {
         },
         {
           headerImage:{},
-          dropdownHtml:`<span>#dropdown1#</span>`,
+          dropdownHtml:`<span>keratoplasty #dropdown1#</span>`,
           dropdowns:{
             dropdown1:{values:[],correctValue: "scarred and torn cornea",dropdownlabel:"Select the Procedures", useCommonOptions:"true"},
           },
@@ -1354,7 +1354,7 @@ const questions_data = {
         },
         {
           headerImage:{},
-          dropdownHtml:`<span>#dropdown1#</span>`,
+          dropdownHtml:`<span>cochlear implant #dropdown1#</span>`,
           dropdowns:{
             dropdown1:{values:[],correctValue: "severe deafness",dropdownlabel:"Select the Procedures", useCommonOptions:"true"},
           },
@@ -1362,7 +1362,7 @@ const questions_data = {
         },
         {
           headerImage:{},
-          dropdownHtml:`<span>#dropdown1#</span>`,
+          dropdownHtml:`<span>laser photocoagulation of the macula #dropdown1#</span>`,
           dropdowns:{
             dropdown1:{values:[],correctValue: "macular degeneration", useCommonOptions:"true"},
           },
@@ -1370,7 +1370,7 @@ const questions_data = {
         },
          {
           headerImage:{},
-          dropdownHtml:`<span>#dropdown1#</span>`,
+          dropdownHtml:`<span>incision and drainage of hordeolum #dropdown1#</span>`,
           dropdowns:{
             dropdown1:{values:[],correctValue: "chronic stye", useCommonOptions:"true"},
           },

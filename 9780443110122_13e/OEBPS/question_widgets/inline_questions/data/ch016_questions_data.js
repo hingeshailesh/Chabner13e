@@ -2314,14 +2314,7 @@ const questions_data = {
       items: [
         {
           
-           headerImage:{
-            src:"../../IMAGES/B9780443107795000166/main.assets/u16-02-9780443107795.jpg",
-            alt:"",
-            figCaption: "",
-            align:"left",//center
-            widthPerc:"70"//"10","20","30","40","50","60","70","80","90","100"
-            
-          },
+           headerImage:{},
           clozeHtml:`<span>A. #cloze1#</span>`,
           clozes:{
             cloze1:{correctValue: "xanthelasma", clozelabel:"fill in the blank"},
