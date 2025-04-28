@@ -766,6 +766,7 @@ const questions_data = {
       ],
       items: [
         {
+
           headerImage:{},
           dropdownHtml:`<span>#dropdown1#</span>`,
           dropdowns:{
@@ -801,7 +802,7 @@ const questions_data = {
       
       correctFeedback: `All of your answers are correct.`,
       incorrectFeedback: `You have one or more incorrect answers.`,
-      optionStyleType: "st-decimal",
+      optionStyleType: "st-upper-alpha",
       itemSeperator: "false",
     },
  group7: {
