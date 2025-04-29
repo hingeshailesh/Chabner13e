@@ -2206,7 +2206,7 @@ group19: {
             alt:"Chest X-ray displaying the anatomical positions of the heart and lungs for medical analysis and evaluation.",
             figCaption: "",
             align:"left",//center
-            widthPerc:"70"//"10","20","30","40","50","60","70","80","90","100"
+            widthPerc:"20"//"10","20","30","40","50","60","70","80","90","100"
           },
           dropdownHtml:`<span>vertical plane that divides the body into anterior and posterior portions #dropdown1#</span>`,
           dropdowns:{
@@ -2222,7 +2222,7 @@ group19: {
             alt:"Chest X-ray displaying the anatomical positions of the heart and lungs for medical analysis and evaluation.",
             figCaption: "",
             align:"left",//center
-            widthPerc:"70"//"10","20","30","40","50","60","70","80","90","100"
+            widthPerc:"20"//"10","20","30","40","50","60","70","80","90","100"
           },
           dropdownHtml:`<span>horizontal plane that divides the body into upper and lower portions #dropdown1#</span>`,
           dropdowns:{
@@ -2238,7 +2238,7 @@ group19: {
             alt:"Chest X-ray displaying the anatomical positions of the heart and lungs for medical analysis and evaluation.",
             figCaption: "",
             align:"left",//center
-            widthPerc:"70"//"10","20","30","40","50","60","70","80","90","100"
+            widthPerc:"20"//"10","20","30","40","50","60","70","80","90","100"
           },
           dropdownHtml:`<span>vertical plane that divides the body into right and left portions #dropdown1#</span>`,
           dropdowns:{

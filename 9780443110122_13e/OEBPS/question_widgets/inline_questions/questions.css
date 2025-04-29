@@ -751,6 +751,9 @@ input.cloze-input {
   bottom: 0px;
   cursor: pointer;
 }
+img.zoomable-image{
+  max-width: 708px; 
+}
 .fig-holder {
 }
 figure {
