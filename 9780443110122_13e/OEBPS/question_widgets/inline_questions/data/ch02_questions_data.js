@@ -2203,7 +2203,7 @@ group19: {
         { 
           headerImage:{
             src:"../../IMAGES/B9780443107795000026/main.assets/u02-05-9780443107795.jpg",
-            alt:"Chest X-ray displaying the anatomical positions of the heart and lungs for medical analysis and evaluation.",
+            alt:"Diagram shows anterior section of brain. Diagram shows superior section of brain. Diagram shows lateral section of brain.",
             figCaption: "",
             align:"left",//center
             widthPerc:"20"//"10","20","30","40","50","60","70","80","90","100"
@@ -2219,7 +2219,7 @@ group19: {
         { 
           headerImage:{
             src:"../../IMAGES/B9780443107795000026/main.assets/u02-05-9780443107795.jpg",
-            alt:"Chest X-ray displaying the anatomical positions of the heart and lungs for medical analysis and evaluation.",
+            alt:"Diagram shows anterior section of brain. Diagram shows superior section of brain. Diagram shows lateral section of brain.",
             figCaption: "",
             align:"left",//center
             widthPerc:"20"//"10","20","30","40","50","60","70","80","90","100"
@@ -2235,7 +2235,7 @@ group19: {
         {
           headerImage:{
             src:"../../IMAGES/B9780443107795000026/main.assets/u02-05-9780443107795.jpg",
-            alt:"Chest X-ray displaying the anatomical positions of the heart and lungs for medical analysis and evaluation.",
+            alt:"Diagram shows anterior section of brain. Diagram shows superior section of brain. Diagram shows lateral section of brain.",
             figCaption: "",
             align:"left",//center
             widthPerc:"20"//"10","20","30","40","50","60","70","80","90","100"
