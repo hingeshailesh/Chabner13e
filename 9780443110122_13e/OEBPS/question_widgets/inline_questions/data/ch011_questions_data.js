@@ -746,7 +746,7 @@ const questions_data = {
         },
 {
             title: `computed tomography angiography`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/computed_tomography_angiography.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch11_computedtomographyangio.mp3`,
             explanation: `kom-PU-ted to-MOG-rah-fe an-je-OG-rah-fe`,
         },
 {
@@ -981,7 +981,7 @@ const questions_data = {
         },
 {
             title: `positron emission tomography of the heart`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/positron_emission_tomography_of_the_heart.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch11p12.mp3`,
             explanation: `pos-ih-trone-MIH-shun to-MOG-rah-feofthe hart`,
         },
 {

@@ -1021,7 +1021,7 @@ const questions_data = {
         },
         {
             title: `-centesis`,
-            explanation: `No Data`,
+            explanation: `puncture to remove fluid`,
         },
         {
             title: `-cyesis`,
