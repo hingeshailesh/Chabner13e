@@ -172,6 +172,10 @@ const questions_data = {
             explanation: `bone`,
         },
         {
+          title: `perone/o`,
+          explanation: `fibula`,
+      },
+        {
             title: `patell/o`,
             explanation: `patella`,
         },
