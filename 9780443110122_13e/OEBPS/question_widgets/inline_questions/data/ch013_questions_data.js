@@ -620,7 +620,7 @@ const questions_data = {
             items: [   
         {
             title: `acute lymphoid leukemia`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/acute_lymphoid_leukemia.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch13_acute_lymphoid_leukemia.mp3`,
             explanation: `uh-KYOOTLIMP-oydlu-KE-me-ah`,
         },
         {
