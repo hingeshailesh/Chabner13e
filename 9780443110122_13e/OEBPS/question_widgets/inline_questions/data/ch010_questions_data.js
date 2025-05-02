@@ -567,7 +567,7 @@ const questions_data = {
         },
         {
             title: `leptomeningitis`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/leptomeningitis.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch10l01.mp3`,
             explanation: `lep-to-men-in-JI-tis`,
         },
         {
