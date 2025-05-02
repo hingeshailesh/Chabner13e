@@ -239,7 +239,7 @@ const questions_data = {
         },
         {
             title: `avoidant personality`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/avoidant_personality.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch22_avoidant_personality.mp3`,
             explanation: `ah-VOY-dantper-son-AL-ih-te`,
         },
         {
@@ -324,12 +324,12 @@ const questions_data = {
         },
         {
             title: `dependent personality`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/dependent_personality.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch22_dependent_personality.mp3`,
             explanation: `de-PEN-dantper-son-AL-ih-te`,
         },
         {
             title: `depressive disorders`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/depressive_disorders.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch22_depressive_disorders.mp3`,
             explanation: `de-PRES-ivdis-OR-derz`,
         },
         {
@@ -484,12 +484,12 @@ const questions_data = {
         },
         {
             title: `neurocognitive disorders`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/neurocognitive_disorders.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch22_neurocognitive_disorders.mp3`,
             explanation: `nu-ro-KOG-nat-ivdis-OR-derz`,
         },
         {
             title: `neurodevelopmental disorders`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/neurodevelopmental_disorders.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch22_neurodevelopmental_disorders.mp3`,
             explanation: `nu-ro-de-VEL-op-men-taldis-OR-derz`,
         },
         {
@@ -649,7 +649,7 @@ const questions_data = {
         },
         {
             title: `sexual dysfunctions`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/sexual_dysfunctions.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch22_sexual_dysfunctions.mp3`,
             explanation: `SEX-u-aldis-FUNK-shunz`,
         },
         {
@@ -664,12 +664,12 @@ const questions_data = {
         },
         {
             title: `somatic symptom disorders`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/somatic_symptom_disorders.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch22_somatic_symptom_disorder.mp3`,
             explanation: `so-MAT-ikSIM-tomdis-OR-derz`,
         },
         {
             title: `substance-related and addictive disorders`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/substance-related_and_addictive_disorders.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch22_substance-related_and_addictive_disorder.mp3`,
             explanation: `SUB-stansre-LA-tedandah-DIK-tivdis-OR-derz`,
         },
         {

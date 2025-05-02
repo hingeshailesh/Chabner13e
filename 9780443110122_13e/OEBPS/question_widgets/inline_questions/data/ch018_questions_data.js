@@ -13,7 +13,7 @@ const questions_data = {
       items: [
         {
             title: `aden/o`,
-            explanation: ``,
+            explanation: `gland`,
         },
         {
             title: `adrenal/o`,

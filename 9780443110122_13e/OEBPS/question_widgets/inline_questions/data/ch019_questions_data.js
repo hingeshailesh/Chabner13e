@@ -372,7 +372,7 @@ const questions_data = {
         },
         {
             title: `diffuse`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/diffuse.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch19_diffuse_alt.mp3`,
             explanation: `di-FUS`,
         },
         {
@@ -530,11 +530,7 @@ const questions_data = {
             audio: `../../question_widgets/inline_questions/data/media/audio/group1/linear_accelerator.mp3`,
             explanation: `LIN-e-arak-SEL-eh-ra-tor`,
         },
-        {
-            title: `liquid biopsy`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/liquid_biopsy.mp3`,
-            explanation: `LIK-widBI-op-se`,
-        },
+      
         {
             title: `malignant tumor`,
             audio: `../../question_widgets/inline_questions/data/media/audio/group1/malignant_tumor.mp3`,
@@ -622,7 +618,7 @@ const questions_data = {
         },
         {
             title: `neoadjuvant chemotherapy`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/neoadjuvant_chemotherapy.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch19_neoadjuvant_chemotherapy.mp3`,
             explanation: `ne-o-AD-ju-vantke-mo-THER-ah-pe`,
         },
         {
@@ -837,7 +833,7 @@ const questions_data = {
         },
         {
             title: `undifferentiated`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/undifferentiated.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ch19_undifferentiated.mp3`,
             explanation: `un-dif-er-EN-she-a-ted`,
         },
         {

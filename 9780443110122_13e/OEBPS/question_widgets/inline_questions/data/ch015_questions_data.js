@@ -184,6 +184,10 @@ const questions_data = {
             explanation: `pelvis; hip region`,
         },
         {
+          title: `pelv/o`,
+          explanation: `pelvis; hip region`,
+      },
+        {
             title: `phalang/o`,
             explanation: `phalanges (of fingers and toes)`,
         },
@@ -379,7 +383,7 @@ const questions_data = {
         },
         {
           title: `infra-`,
-          explanation: ``,
+          explanation: `below; inferior to; beneath`,
         },
         {
           title: `meta-`,

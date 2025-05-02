@@ -41,7 +41,7 @@ const questions_data = {
         },
         {
             title: `cochle/o`,
-            explanation: ``,
+            explanation: `cochlea (inner part of ear)`,
         },
         {
             title: `conjunctiv/o`,
