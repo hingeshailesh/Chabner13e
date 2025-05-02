@@ -871,7 +871,7 @@ const questions_data = {
         },
         {
             title: `tens/o`,
-            explanation: ``,
+            explanation: `force, strain, stretch`,
         },
         {
             title: `the/o`,

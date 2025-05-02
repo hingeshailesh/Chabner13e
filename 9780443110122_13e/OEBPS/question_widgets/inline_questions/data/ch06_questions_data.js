@@ -400,7 +400,7 @@ const questions_data = {
       items: [
         {
             title: `abdomin/o`,
-            explanation: `No Data`,
+            explanation: `abdomen`,
         },
         {
             title: `amyl/o`,
@@ -642,7 +642,7 @@ const questions_data = {
         },                
         {
             title: `-ptosis`,
-            explanation: `No Data`,
+            explanation: `falling; drooping; prolapse`,
         },                
         {
             title: `-rrhage`,

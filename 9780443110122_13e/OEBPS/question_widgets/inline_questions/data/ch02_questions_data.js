@@ -313,7 +313,7 @@ const questions_data = {
         },
         {
             title: `ribosomes`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ribosomes.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ribosome.mp3`,
             explanation: `RI-bo-sohmz`,
         },
         {
@@ -517,7 +517,7 @@ const questions_data = {
         },
         {
             title: `laryng/o`,
-            explanation: `NO DATA`,
+            explanation: `larynx (voice box)`,
         },
         {
             title: `later/o`,
@@ -541,7 +541,7 @@ const questions_data = {
         },
         {
             title: `pharyng/o`,
-            explanation: `NO DATA`,
+            explanation: `throat (pharynx)`,
         },
         {
             title: `poster/o`,
