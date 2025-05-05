@@ -979,7 +979,7 @@ const questions_data = {
         },
         {
             title: `opi/o`,
-            explanation: `NO Data`,
+            explanation: `opium`,
         },
         {
             title: `oste/o`,
