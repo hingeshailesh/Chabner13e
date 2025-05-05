@@ -5043,16 +5043,7 @@
       <itemref idref="Index_1013-1049_B9780443107795200018_07" linear="yes"/>
       <itemref idref="Index_1013-1049_B9780443107795200018_07_split_a" linear="yes"/>
       <itemref idref="Index_1013-1049_B9780443107795200018_08" linear="yes"/>
-      <itemref idref="chapter04_mcms1" linear="no"/>
-      <itemref idref="chapter05_mcms1" linear="no"/>
-      <itemref idref="chapter06_mcms1" linear="no"/>
-      <itemref idref="chapter07_mcms1" linear="no"/>
-      <itemref idref="chapter11_1_mcms1" linear="no"/>
-      <itemref idref="chapter11_2_mcms1" linear="no"/>
-      <itemref idref="chapter11_3_mcms1" linear="no"/>
-      <itemref idref="chapter13_mcms" linear="no"/>
-      <itemref idref="chapter14_1_mcms1" linear="no"/>
-      <itemref idref="chapter21_True_False1" linear="no"/>
+    
       
    </spine>
    <guide>
