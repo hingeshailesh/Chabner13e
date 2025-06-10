@@ -826,7 +826,7 @@ const questions_data = {
         "ophthalmologist",
         "neurologist",
         "psychiatrist"
-      ],
+      ], 
       items: [
         {
           headerImage:{},
