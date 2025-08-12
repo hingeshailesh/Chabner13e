@@ -483,7 +483,7 @@ const questions_data = {
         },
         {
             title: `Hodgkin lymphoma`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/Hodgkin_lymphoma.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/hodgkin_lymphoma.mp3`,
             explanation: `HOJ-kinlimf-O-mah`,
         },
         {

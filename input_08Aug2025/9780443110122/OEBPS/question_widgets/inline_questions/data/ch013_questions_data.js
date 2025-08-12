@@ -665,7 +665,7 @@ const questions_data = {
         },
         {
             title: `chronic lymphoid leukemia`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/chronic_lymphocytic_leukemiaa.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/chronic_lymphoid_leukemia.mp3`,
             explanation: `KRON-ikLIM-foydlu-KE-me-ah`,
         },
         {

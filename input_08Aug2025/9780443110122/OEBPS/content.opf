@@ -3190,7 +3190,7 @@
       <item id="mpeg_450" href="question_widgets/inline_questions/data/media/audio/group1/choroid.mp3" media-type="audio/mpeg"/>
       <item id="mpeg_451" href="question_widgets/inline_questions/data/media/audio/group1/chromosome.mp3" media-type="audio/mpeg"/>
       <item id="mpeg_452" href="question_widgets/inline_questions/data/media/audio/group1/chronic_bronchitis.mp3" media-type="audio/mpeg"/>
-      <item id="mpeg_453" href="question_widgets/inline_questions/data/media/audio/group1/chronic_lymphocytic_leukemia.mp3" media-type="audio/mpeg"/>
+      <item id="mpeg_453" href="question_widgets/inline_questions/data/media/audio/group1/chronic_lymphoid_leukemia.mp3" media-type="audio/mpeg"/>
       <item id="mpeg_454" href="question_widgets/inline_questions/data/media/audio/group1/chronic_myeloid_leukemia.mp3" media-type="audio/mpeg"/>
       <item id="mpeg_455" href="question_widgets/inline_questions/data/media/audio/group1/chronic_obstructive_pulmonary_disease.mp3" media-type="audio/mpeg"/>
       <item id="mpeg_456" href="question_widgets/inline_questions/data/media/audio/group1/chronic.mp3" media-type="audio/mpeg"/>
@@ -5031,7 +5031,8 @@
       <item id="mpeg_2291" href="question_widgets/inline_questions/data/media/audio/group1/zygomatic_bones.mp3" media-type="audio/mpeg"/>
       <item id="mpeg_2292" href="question_widgets/inline_questions/data/media/audio/group1/zygote.mp3" media-type="audio/mpeg"/>
 
-
+      <item id="mpeg_2293" href="question_widgets/inline_questions/data/media/audio/group1/light_therapy.mp3" media-type="audio/mpeg"/>
+      
    </manifest>
    <spine page-progression-direction="ltr" toc="ncx">
       <itemref idref="pincode" linear="yes"/>
