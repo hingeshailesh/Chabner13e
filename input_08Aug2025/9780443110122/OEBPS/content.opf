@@ -5032,6 +5032,14 @@
       <item id="mpeg_2292" href="question_widgets/inline_questions/data/media/audio/group1/zygote.mp3" media-type="audio/mpeg"/>
 
       <item id="mpeg_2293" href="question_widgets/inline_questions/data/media/audio/group1/light_therapy.mp3" media-type="audio/mpeg"/>
+      <item id="mpeg_2294" href="question_widgets/inline_questions/data/media/audio/group1/chlamydia.mp3" media-type="audio/mpeg"/>
+      <item id="mpeg_2295" href="question_widgets/inline_questions/data/media/audio/group1/optical_coherence_tomography.mp3" media-type="audio/mpeg"/>
+      <item id="mpeg_2296" href="question_widgets/inline_questions/data/media/audio/group1/peyronie_disease.mp3" media-type="audio/mpeg"/>
+      <item id="mpeg_2297" href="question_widgets/inline_questions/data/media/audio/group1/testicular_cancer.mp3" media-type="audio/mpeg"/>
+      <item id="mpeg_2298" href="question_widgets/inline_questions/data/media/audio/group1/trabeculoplasty.mp3" media-type="audio/mpeg"/>
+
+      
+      
       
    </manifest>
    <spine page-progression-direction="ltr" toc="ncx">

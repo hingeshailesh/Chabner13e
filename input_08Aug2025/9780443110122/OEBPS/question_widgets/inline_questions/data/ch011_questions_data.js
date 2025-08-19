@@ -686,7 +686,7 @@ const questions_data = {
         },
 {
             title: `BNP test`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/bnp_tests.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/bnp_test.mp3`,
             explanation: `BNPtest`,
         },
 {

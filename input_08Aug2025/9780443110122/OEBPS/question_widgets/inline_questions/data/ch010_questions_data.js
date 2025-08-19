@@ -322,7 +322,7 @@ const questions_data = {
         },
         {
             title: `afferent nerves`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/afferent_nerves.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/afferent_nerve.mp3`,
             explanation: `AH-fer-entnervz`,
         },
         {
@@ -487,7 +487,7 @@ const questions_data = {
         },
         {
             title: `efferent nerves`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/efferent_nerves.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/efferent_nerve.mp3`,
             explanation: `EH-fer-entnervz`,
         },
         {
@@ -512,7 +512,7 @@ const questions_data = {
         },
         {
             title: `ganglion; pl. ganglia`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ganglion;_pl._ganglia.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/ganglion.mp3`,
             explanation: `GANG-le-on;GANG-le-ah`,
         },
         {
@@ -527,7 +527,7 @@ const questions_data = {
         },
         {
             title: `gyrus; pl. gyri`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/gyrus;_pl._gyri.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/gyrus_gyri.mp3`,
             explanation: `JI-rus; JI-re`,
         },
         {
@@ -782,7 +782,7 @@ const questions_data = {
         },
         {
             title: `sulcus; pl. sulci`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/sulcus;_pl._sulci.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/sulcus_sulci.mp3`,
             explanation: `SUL-kus; SUL-si`,
         },
         {

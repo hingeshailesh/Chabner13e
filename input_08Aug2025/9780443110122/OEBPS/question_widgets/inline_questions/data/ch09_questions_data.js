@@ -374,7 +374,7 @@ const questions_data = {
         },
         {
             title: `Peyronie disease`,
-            audio: `../../question_widgets/inline_questions/data/media/audio/group1/Peyronie_disease.mp3`,
+            audio: `../../question_widgets/inline_questions/data/media/audio/group1/peyronie_disease.mp3`,
             explanation: `pah-RO-nedih-zeez`,
         },
         {
