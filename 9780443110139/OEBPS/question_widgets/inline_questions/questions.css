@@ -695,11 +695,13 @@ select.dropdown-select {
   background-position: right 0.625rem center !important;
   font-size: unset;
   text-align: center;
+  max-width: 100%;
 }
 
 .dropdown_newline {
   display: block;
   padding: 10px 0 0px 0;
+  max-width: 100%;
 }
 .dropdown_inline {
   display: inline-block;

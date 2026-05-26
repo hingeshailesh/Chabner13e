@@ -1962,6 +1962,7 @@ group7: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -1973,6 +1974,7 @@ group7: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -1984,6 +1986,7 @@ group7: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -1995,6 +1998,7 @@ group7: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2006,6 +2010,7 @@ group7: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2017,6 +2022,7 @@ group7: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2030,6 +2036,7 @@ group7: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2042,6 +2049,7 @@ group7: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2054,6 +2062,7 @@ group7: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2066,6 +2075,7 @@ group7: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
 

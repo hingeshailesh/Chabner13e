@@ -2103,6 +2103,7 @@ group18: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2113,6 +2114,7 @@ group18: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2123,6 +2125,7 @@ group18: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2133,6 +2136,7 @@ group18: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2143,6 +2147,7 @@ group18: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2153,6 +2158,7 @@ group18: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2163,6 +2169,7 @@ group18: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2173,6 +2180,7 @@ group18: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2183,6 +2191,7 @@ group18: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2193,6 +2202,7 @@ group18: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
        { 
@@ -2203,6 +2213,7 @@ group18: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2213,6 +2224,7 @@ group18: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         }
         
@@ -2476,6 +2488,7 @@ group21: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2486,6 +2499,7 @@ group21: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2496,6 +2510,7 @@ group21: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2506,6 +2521,7 @@ group21: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2516,6 +2532,7 @@ group21: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2526,6 +2543,7 @@ group21: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2536,6 +2554,7 @@ group21: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2546,6 +2565,7 @@ group21: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2556,6 +2576,7 @@ group21: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2566,6 +2587,7 @@ group21: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         }
 
@@ -2697,6 +2719,7 @@ group23: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2707,6 +2730,7 @@ group23: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2717,6 +2741,7 @@ group23: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2727,6 +2752,7 @@ group23: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         },
         { 
@@ -2737,6 +2763,7 @@ group23: {
           },
           dropdownPlacement:"inline",//newline
           correctFeedback: `Your answer is correct.`,
+          partialFeedback: `You have one or more incorrect answers.`,
           incorrectFeedback: `Your answer is incorrect.`
         }
       
