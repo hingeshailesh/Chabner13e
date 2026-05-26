@@ -1194,7 +1194,8 @@ group6: {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1328,7 +1329,8 @@ group7: {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1401,7 +1403,8 @@ group7: {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1473,7 +1476,8 @@ group7: {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1635,7 +1639,8 @@ group7: {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1744,7 +1749,8 @@ group7: {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1853,7 +1859,8 @@ group7: {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1963,7 +1970,8 @@ group7: {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -2100,7 +2108,8 @@ group7: {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -2211,7 +2220,8 @@ group7: {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -2287,7 +2297,8 @@ group7: {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },

@@ -991,7 +991,8 @@ const questions_data = {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1051,7 +1052,8 @@ const questions_data = {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1093,7 +1095,8 @@ const questions_data = {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1252,7 +1255,8 @@ const questions_data = {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1312,7 +1316,8 @@ const questions_data = {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1435,7 +1440,8 @@ const questions_data = {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1623,7 +1629,8 @@ const questions_data = {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1720,7 +1727,8 @@ const questions_data = {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1844,7 +1852,8 @@ const questions_data = {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
@@ -1968,7 +1977,8 @@ const questions_data = {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },   
@@ -2118,7 +2128,8 @@ const questions_data = {
       ],
       
       correctFeedback: `All of your answers are correct.`,
-      incorrectFeedback: `You have one or more incorrect answers.`,
+      partialFeedback: `You have one or more incorrect answers.`,
+      incorrectFeedback: `Your answers are incorrect.`,
       optionStyleType: "st-decimal",
       itemSeperator: "false",
     },
